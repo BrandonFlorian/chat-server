@@ -1,4 +1,4 @@
-# yu-chat-feathers
+# chat-feathers
 
 > 
 
